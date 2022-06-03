@@ -1,0 +1,49 @@
+{
+    "products": [
+        {
+            "fastdelivery": true,
+            "id": "ab7ddb0b-c39f-4490-8fd0-6c4ba6775e96",
+            "image": "http://loremflickr.com/640/480/fashion?62743",
+            "instock": 1,
+            "name": "Fantastic Frozen Gloves",
+            "price": "525.00",
+            "ratings": 5
+        },
+        {   
+            "fastdelivery": false,
+            "id": "5368b4bd-4de3-46a9-9069-142138711c35",
+            "image": "http://loremflickr.com/640/480/fashion?55223",
+            "instock": 1,
+            "name": "Small Bronze Salad",
+            "price": "70.00",
+            "ratings": 4
+        },
+        {
+            "fastdelivery": false,
+            "id": "e684038f-a6ca-4d54-bff7-24c80693feaf",
+            "image": "http://loremflickr.com/640/480/fashion?27198",
+            "instock": 7,
+            "name": "Refined Fresh Bike",
+            "price": "433.00",
+            "ratings": 5
+        },
+        {
+            "fastdelivery": true,
+            "id": "21864a4f-fb2a-4c3b-8929-41bdfe0c5e0b",
+            "image": "http://loremflickr.com/640/480/fashion?82655",
+            "instock": 1,
+            "name": "Luxurious Metal Chicken",
+            "price": "51.00",
+            "ratings": 1
+        },
+        {
+            "fastdelivery": false,
+            "id": "21798186-bcdb-4361-b973-8d379b4571c4",
+            "image": "http://loremflickr.com/640/480/fashion?71400",
+            "instock": 5,
+            "name": "Licensed Bronze Soap",
+            "price": "233.00",
+            "ratings": 2
+        }
+    ]
+}
